@@ -1,0 +1,419 @@
+<?xml version='1.0' standalone='yes'?>
+<villains>
+	<villain rarity="5">
+		<name>
+		Assassin (Weapons Specialist)
+		</name>
+		<description>
+		The Assassin is a trained killer. This type of assassin specializes in taking out his mark with his mastery of weaponry.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Assassin (Martial Arts Specialist)
+		</name>
+		<description>
+		The Assassin is a trained killer. This type of assassin is a martial arts specialist and usually takes out his mark at close quarters.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Assassin (Super-Powered)
+		</name>
+		<description>
+		The Assassin is a trained killer. This type of assassin is imbued with superhuman powers making him extremely dangerous.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Assassin (Inter-Dimensional)
+		</name>
+		<description>
+		The Assassin is a trained killer. This assassin hails from another dimension or another planet. You won't know what to expect before it's too late.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Modern Psychic
+		</name>
+		<description>
+		A hippie, a new age expert or an actual psychic.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Illuminati Leader
+		</name>
+		<description>
+		Leader of a dark secret organization bent on world domination. 
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Pumped-Up Brute
+		</name>
+		<description>
+		A brutal fighter. He revels in murder, violence and pain. He probably doesn't have much brain power (but you never know), but he makes up for it in sheer physical strength.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Leader of Secret World
+		</name>
+		<description>
+		A ruler from a forgotten world comes to exact vengeance on the world.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Mad Gadgeteer
+		</name>
+		<description>
+		The mad gadgeteer can turn anything into a weapon. Does he have an agenda or is he simply mad?
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Mad Geneticist
+		</name>
+		<description>
+		The mad geneticist revels in experimentation on innocent human beings. Often a lot of pain is involved.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Disavowed Agent
+		</name>
+		<description>
+		An agent gone wrong? Where have we seen this before. The disavowed agent has skills and knowledge that makes him extremely dangerous.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Mutated Scientific Accident
+		</name>
+		<description>
+		Is he the victim of a mad geneticist? Either way, he's been through a lot of pain and he's pissed off!
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Feral Beast-Man
+		</name>
+		<description>
+		Nobody know the origin of the feral beast-man, but he is fierce and bloodthirsty. A lot of innocent people will die painful deaths if he is not stopped.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Former Hero Turned Anti-Hero
+		</name>
+		<description>
+		Formerly an icon other heroes looked up to. Something happened and he now operates outside the law. Although, his victims are criminals he must be stopped nonetheless.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Former Hero Turned Villain
+		</name>
+		<description>
+		Formerly an icon other heroes looked up to. However, something happened and he now operates on the other side of the law. He has become more dangerous than the villains he used to bring to justice.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Former Sidekick Turned Anti-Hero
+		</name>
+		<description>
+		The sidekick of a famous hero. As he grew up something went wrong. Perhaps he didn't feel the ways of his old mentor got the job done. Now he hunts and kills villains with no remorse.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Former Sidekick Turned Villain
+		</name>
+		<description>
+		The sidekick of a famous hero. As he grew up something went wrong. Perhaps he grew bitter in the shadow of an iconic hero. Now he has become an enemy of those he used to call friends.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Cybernetic Warrior
+		</name>
+		<description>
+		A dangerous combination of man and machine. The cybernetic warrior serves his masters.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Alien Experiment
+		</name>
+		<description>
+		Abducted by aliens. Mentally and physically warped. The Alien experiment is a danger to himself and others.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Vampiric Femme Fatale
+		</name>
+		<description>
+		A bloodsucker. Nobody knows if this dangerous villain is an actual vampire or if she just has powers that are similar.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Ninja Cult Leader
+		</name>
+		<description>
+		Leader of a cult of ninjas. Expect hordes of martial arts experts to hunt you down if you cross his her path.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Techno-mage
+		</name>
+		<description>
+		Combining technology and magic this is a most dangerous foe.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Group of Villains
+		</name>
+		<description>
+		A group of villains have banded together to take down the protagonist.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Scheming Socialite
+		</name>
+		<description>
+		Crime doesn't just belong in the underworld of the city. Even socialites scheme and commit crimes. Mind the dress-code.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Ancient High-Priest
+		</name>
+		<description>
+		Leader of an ancient magical or spiritual order. This will be a dangerous and disturbing foe.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Anarchist
+		</name>
+		<description>
+		Bent on anarchy this is one of the most unpredictable antagonists you can go up against. Expect the unexpected.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Mad Scientist
+		</name>
+		<description>
+		The mad scientist is the most classical of foes. That doesn't make her any more dangerous.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Agent of Death
+		</name>
+		<description>
+		This foe believes herself to be an agent of death. Whether this is true or not is irrelevant. She will bring death to all who oppose her.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Ancient Supernatural Being
+		</name>
+		<description>
+		Legend tells of creatures of great power. The problem is these legends have turned out to be true.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Foreign Government Agent
+		</name>
+		<description>
+		A spy or infiltrator from another government poses an immediate threat. Can you stop him?
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Arsonist
+		</name>
+		<description>
+		Some people take joy in the misery of others. For the arsonist it is not critical that others are in danger. He revels in fire and that puts others at risk.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Rapist
+		</name>
+		<description>
+		The most despicable foe you can imagine. The rapist lives to bring pain to women.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Murderer
+		</name>
+		<description>
+		A murderer is at large. Can you get him?
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Symbiotic Being
+		</name>
+		<description>
+		An alien being is taking control of people. It uses its victims to its ends, including sustenance.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Tribal Doctor
+		</name>
+		<description>
+		A doctor from a native tribe. Civilization has crossed his path, now he is out for revenge.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Mercenary
+		</name>
+		<description>
+		A paid killer. He is good at what he does. If killing is part of the job so much the better. He won't steer clear of lesser tasks, though, as long as the pay is right.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Terrorist
+		</name>
+		<description>
+		The terrorist works for a cause. That cause may be religious, political or something else, but his weapon is fear.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Serial Killer
+		</name>
+		<description>
+		This murderer has a taste for death. He won't stop unless you stop him.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Evil Lunatic
+		</name>
+		<description>
+		Madness. Sometimes it's impossible to describe. This lunatic is truly mad and he revels in the pain of others.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Fanatic Cult Leader
+		</name>
+		<description>
+		The leader of a fanatic cult. He is dangerous because he doesn't mind putting his followers in harms way. Their harm or others.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Super Powered Mass-Murderer
+		</name>
+		<description>
+		This mass-murderer is imbued with superhuman powers.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Force Of Nature
+		</name>
+		<description>
+		Sometimes the most powerful opponent is nature itself. While you can't stop it, you can do your best to minimize the damage it does.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Secret Government Experiment
+		</name>
+		<description>
+		The government, this or another, are secretly experimenting on people. They want to create soldiers with super-human capabilities. Guess what? It worked! Sadly this experiment can't be controlled.
+		</description>
+	</villain>
+	<villain rarity="2">
+		<name>
+		Rogue Army Officer
+		</name>
+		<description>
+		An army officer gone rogue. He has working knowledge of military tactics and plans, and he intends to use them.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Crimelord
+		</name>
+		<description>
+		The criminal underworld needs a leader, and this guy is it.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Demon
+		</name>
+		<description>
+		A demon, or a demonic being, has arrived on earth. Is this truly a demon sent by satan or is it something else. Finding out may be the only way to learn to stop it.
+		</description>
+	</villain>
+	<villain rarity="1">
+		<name>
+		Advanced Artificial Intelligence
+		</name>
+		<description>
+		Scientists have worked on creating artificial intelligence for decades. They did it! The only problem is it is smarter than us and doesn't really like its creators.
+		</description>
+	</villain>
+	<villain rarity="4">
+		<name>
+		Armsdealer
+		</name>
+		<description>
+		A dealer of arms. What he does is illegal and powers many other bad people. The big problem is that you know for sure you're going to be up against a helluva lot of firepower.
+		</description>
+	</villain>
+	<villain rarity="3">
+		<name>
+		Drug Cartel Leader
+		</name>
+		<description>
+		Drugs are bad. Except for those who sell them. They generally make a lot of money, and they don't like it when you try to ruin their business.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Pusher
+		</name>
+		<description>
+		The pusher is one step above the addict in the food-chain. He will fight ferociously for his territory and to rise up on the ladder. The inferno that ensues will cost many lives.
+		</description>
+	</villain>
+	<villain rarity="5">
+		<name>
+		Corrupt Cop
+		</name>
+		<description>
+		Not all cops are good. They want to be, but the salary is low and the expenses are high. The corrupt cop can be a dangerous enemy.
+		</description>
+	</villain>
+		<villain rarity="5">
+		<name>
+		Corrupt Politician
+		</name>
+		<description>
+		Power corrupts. At least this is the case for this politician. He has power and he's not afraid to use it.
+		</description>
+	</villain>
+</villains>
